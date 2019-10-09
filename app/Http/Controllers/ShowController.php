@@ -11,4 +11,7 @@ class ShowController extends Controller
     {
         return view('Index.Show',['res'=>'1111']);
     }
+
+
 }
+
